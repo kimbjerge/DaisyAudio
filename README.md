@@ -3,6 +3,8 @@ This repository contains audio processing C++ examples for the Daisy platform fa
 
 This repository requires the Daisy tool chain to be installed. See tutorial below.
 
+https://docs.daisy.audio/tutorials/cpp-dev-env/
+
 https://docs.daisy.audio/product/Daisy-Pod/
 
 https://docs.daisy.audio/tutorials/web-programmer/
