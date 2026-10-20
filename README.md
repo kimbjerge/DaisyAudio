@@ -5,6 +5,8 @@ This repository requires the Daisy tool chain to be installed. See tutorial belo
 
 https://docs.daisy.audio/product/Daisy-Pod/
 
+https://docs.daisy.audio/tutorials/web-programmer/
+
 The DaisyAudio repository must be cloned to the Daisy/DaisyExamples/ folder of the Daisy installation.
 
 Install the Python library pyserial (pip install pyserial) to execute the comPortPlotData.py.
